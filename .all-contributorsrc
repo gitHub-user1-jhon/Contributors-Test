@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jhon-02-github",
+      "name": "jhon-02-github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75372890?v=4",
+      "profile": "https://github.com/jhon-02-github",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Contributors-Test",
+  "projectOwner": "gitHub-user1-jhon",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
